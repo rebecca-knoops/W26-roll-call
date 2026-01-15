@@ -8,7 +8,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Prof L. Corrales | -- | -- |
 | Nathan Allen | -- | -- |
 | Shreyanshi Garg | -- | -- |
-| Rebecca Knoops | -- | -- |
+| Rebecca Knoops | rebecca-knoops | [https://github.com/rebecca-knoops/W26-roll-call.git](https://github.com/rebecca-knoops/W26-roll-call.git) |
 | Owen Kordyzon | -- | -- |
 | Elizabeth Lane | -- | -- |
 | Manu Li | -- | -- |
